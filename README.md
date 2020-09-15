@@ -1,5 +1,6 @@
-### Cyberthreat Intelligence Briefs
-Get the facts on established and trending APT groups, malware, and viruses that pose a dangerous threat to governments, enterprises, and other institutions
+### Cyberthreat Intelligence Watchlist
+
+Here are 9 active and extremely dangerous APT groups to have on your radar in 2020 and beyond
 
 #### Advanced Persistent Threats (APT) hacker groups
 
@@ -41,3 +42,12 @@ Energy sector
 Political officials
 Nuclear nations
 ```
+
+- APT41
+- Black Vine
+- Angler-EK
+- Cozy Bear
+- Dragonfly
+- GovRAT
+- Pawn Storm
+- APT10
