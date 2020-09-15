@@ -43,7 +43,32 @@ Political officials
 Nuclear nations
 ```
 
-- APT41
+#### APT41
+
+APT41 is a prolific Chinese hacker group engaging in state-sponsored cyberespionage and also operates as an independent cybercriminal organization engaging in financially motivated cyberattacks
+
+Active:  2012-present
+
+National affiliation:  China
+
+APT41 is cunning, evasive, and persistent, able to adapt quickly to changes in a targeted network environment and incident response activity
+
+Tactics, Techniques & Procedures:
+```
+Spearphishing emails with attachments to gain initial access 
+Identify and compromise intermediary systems to gain access to other segmented parts of a network
+Has utilized 46+ different types of malware, including malware shared with other Chinese espionage groups and unique custom malware
+Extremely sophisticated and large arsenal of malware, including backdoors, credential stealers, keyloggers, rootkits, MBR bootkits
+Reserves more advanced TTPs and malware for high-value targets
+```
+
+Primary Targets:
+``` 
+Has shifted focus from targeted intellectual property theft to strategic intelligence collection since 2015
+Strong ties to both underground markets and state-sponsored missions
+Targets high-tech, software, media, healthcare, pharmaceutical, travel, telecommunications, education, and video game industries
+```
+
 - Black Vine
 - Angler-EK
 - Fancy Bear
