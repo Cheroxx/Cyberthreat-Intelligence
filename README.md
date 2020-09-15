@@ -1,6 +1,6 @@
 ### Cyberthreat Intelligence Watchlist
 
-Here are 9 active and extremely dangerous APT groups to have on your radar in 2020 and beyond
+Here are 12 active and extremely dangerous APT groups to have on your radar in 2020 and beyond
 
 #### Advanced Persistent Threats (APT) hacker groups
 
@@ -46,8 +46,11 @@ Nuclear nations
 - APT41
 - Black Vine
 - Angler-EK
-- Cozy Bear
+- Fancy Bear
 - Dragonfly
 - GovRAT
 - Pawn Storm
 - APT10
+- FIN7
+- Cozy Bear
+- Comment Crew/APT1
