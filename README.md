@@ -4,7 +4,7 @@ Here are 9 active and extremely dangerous APT groups to have on your radar in 20
 
 #### Advanced Persistent Threats (APT) hacker groups
 
-#### DarkHotel APT
+#### DarkHotel 
 
 DarkHotel is a hacker group engaging in highly focused and malicious attacks on C-level business executives and other high-profile individuals to compromise and steal valuable data.
 
