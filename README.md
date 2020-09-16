@@ -69,7 +69,30 @@ Strong ties to both underground markets and state-sponsored missions
 Targets high-tech, software, media, healthcare, pharmaceutical, travel, telecommunications, education, and video game industries
 ```
 
-- Black Vine
+#### Black Vine
+
+Black Vine is a dangerous APT group engaging primarily in cyberespionage
+
+Black Vine APT is likely responsible for the massive 2015 Anthem data breach 
+
+Active:  2012-present
+
+National affiliation:  China
+
+Tactics, Techniques & Procedures:
+```
+Infects websites popular with executives, exploits compromised targets to poach intellectual property from their organizations
+Weaponized zero-day exploits
+Watering-hole attacks
+Custom malware including Hurix, Sakurel, Mivast
+Install malware with backdoor to steal valuable data and information
+```
+
+Primary Targets:
+```
+Aerospace, energy, military, and technology industries
+```
+
 - Angler-EK
 - Fancy Bear
 - Dragonfly
