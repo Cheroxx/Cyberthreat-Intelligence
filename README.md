@@ -81,7 +81,7 @@ National affiliation:  China
 
 Tactics, Techniques & Procedures:
 ```
-Infects websites popular with executives, exploits compromised targets to poach intellectual property from their organizations
+Infects websites popular with corporate executives, exploits compromised targets to poach intellectual property from their organizations
 Weaponized zero-day exploits
 Watering-hole attacks
 Custom malware including Hurix, Sakurel, Mivast
@@ -93,7 +93,37 @@ Primary Targets:
 Aerospace, energy, military, and technology industries
 ```
 
-- Angler-EK
+#### APT38/Lazarus Group
+
+The Lazarus Group is a prolific APT group sponsored by the North Korean regime engaging in financial cybercrimes, money laundering, and financially-motivated cyberattacks
+
+Also known as APT38, Gods Apostles, Gods Disciples, Guardians of Peace, ZINC, Whois Team, Hidden Cobra
+
+APT38 is responsible for the 2014 Sony Pictures Hack, Operation Troy and identified as an active and serious threat
+
+National affiliation:  North Korea
+
+Active:  2010-present
+
+Tactics, Techniques & Procedures:
+```
+Gains initial access with strategic web compromise, exploiting vulnerable servers
+Aggressive, use destructive malware to render victim networks inoperable following theft
+Possess a unique toolset, malware, and tactics distinguishing APT38 from other North Korean APT groups
+Distributed DoS attacks 
+EternalBlue, Mimikatz, Wannacry, Bankshot
+Pivot to target servers used for SWIFT transactions and executed malware to insert fraudulent SWIFT transactions
+```
+
+Primary Targets:
+```
+Bitcoin & Cryptocurrency
+Banks and financial institutions
+Nations including the United States, South Korea, Ecuador, Mexico
+Has targeted more than 16 organizations in at least 13 countries
+Reportedly has attempted to steal over $1.1 billion dollars from financial institutions
+```
+
 - Fancy Bear
 - Dragonfly
 - GovRAT
