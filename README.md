@@ -6,16 +6,18 @@ Here are 12 active and extremely dangerous APT groups to have on your radar in 2
 
 #### DarkHotel 
 
-DarkHotel is a hacker group engaging in highly focused and malicious attacks on C-level business executives and other high-profile individuals to compromise and steal valuable data.
+DarkHotel is a hacker group engaging in cyberespionage, highly focused and malicious attacks on C-level business executives and other high-profile individuals to compromise and steal valuable data.
 
-Also known as Tapaoux (a trojan calling card of the group)
+Also known as Tapaoux (a Trojan calling card of the group)
 
-Active 10+ years mostly in Asia, Russia, Japan, Germany, USA
+Active:  2007-present
+
+National affiliation:  South Korea?
 
 Tactics, Techniques & Procedures:
 ```
 Layered malicious attacks including mass P2P file-sharing infections
-Hotel Wi-Fi exploits 
+Hotel Wi-Fi exploits, infecting WiFi networks of hotels popular with business executives
 Combination of spearphishing, advanced malware, Inexsmar malware, and botnet automation designed to capture confidential data
 2-stage malware infection:
 Stage 1 infection is usually a Tapaoux Trojan to gain access and enumerate for high value targets
@@ -23,6 +25,7 @@ Stage 2 malware delivered to select targets and when activated contacts a comman
 
 Targets then loaded with a kernel-level keylogger or other spyware
 ```
+
 Cyberattack Preparation & Development Methods:
 ```
 Zero-day exploits and undiscovered security gaps
@@ -40,7 +43,7 @@ Large electronics and tech manufacturers
 Pharmaceutical companies
 Energy sector
 Political officials
-Nuclear nations
+North Korea, South Korea, Japan, and China
 ```
 
 #### APT41
