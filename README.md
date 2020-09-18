@@ -127,10 +127,74 @@ Has targeted more than 16 organizations in at least 13 countries
 Reportedly has attempted to steal over $1.1 billion dollars from financial institutions
 ```
 
-- Fancy Bear
-- Dragonfly
+#### Fancy Bear/APT28
+
+Fancy bear is a prolific Russian state-sponsored APT group engaging in economic and political cyberespionage activities on high-profile targets  
+
+Responsible for high profile cyberattacks since 2015 including the Democratic National Committee hack in 2016, RNC, the U.S. White House, NATO, World Anti-Doping Agency hack, attack on Dutch ministries, German parliament, breach of the International Olympic Committee, French television and the U.S. Department of Justice among others.
+
+Also known as APT28, Sofacy, Sednit, Pawn Storm, Tsar Team, STRONTIUM
+
+National affiliation:  Russia
+
+Active:  2005-present
+
+Tactics, Techniques & Procedures:
+```
+Phishing and spearphishing to gain initial access
+Phishing emails with links to spoofed websites for credential harvesting
+Evasive and adaptable, routinely modifying their malware and procedures to evade detection and maintain persistence in target network
+Zero-day exploits
+Malware drop websites disguised as news sources
+Custom malware with unique signatures, malwary code obfuscation
+```
+
+Primary Targets:
+```
+Germany
+United States
+Ukraine
+U.S. political organizations
+World political organizations and NATO allies
+Government, military, and security organizations
+High-profile media personalities
+Also participates in disinformation campaigns
+```
+
+#### Dragonfly
+
+Dragonfly is a dangerous APT group engaging in cyberespionage and industrial sabotage
+
+Recent attacks on energy sector targets linked to Dragonfly APT suggest the group has resurfaced in recent years 
+
+Dragonfly was linked to San Francisco International airport websites hack
+
+Also known as Crouching Yeti, Energetic Bear
+
+National affiliation:  Russia
+
+Active:  2010-present
+
+Tactics, Techniques & Procedures:
+```
+Karagany, Karagany.B, Heriplor, and Listrix trojans
+Spearphishing emails to gain access 
+Compromised websites, watering holes
+Advanced custom malware with unique signatures
+Goodor and Dorshel malware backdoors
+Phishery toolkit
+```
+
+Primary Targets:
+```
+Energy and industrial sectors in North America and Europe
+Industrial control systems
+Utility companies
+Shifted focus from targeting defense and aviation corporations to the energy sector circa 2013
+United States, Switzerland and Turkey
+```
+
 - GovRAT
-- Pawn Storm
 - APT10
 - FIN7
 - Cozy Bear
