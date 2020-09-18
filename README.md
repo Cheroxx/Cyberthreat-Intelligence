@@ -8,7 +8,7 @@ Here are 12 active and extremely dangerous APT groups to have on your radar in 2
 
 DarkHotel is a hacker group engaging in cyberespionage, highly focused and malicious attacks on C-level business executives and other high-profile individuals to compromise and steal valuable data.
 
-Also known as Tapaoux (a Trojan calling card of the group)
+Also known as Tapaoux 
 
 Active:  2007-present
 
@@ -19,19 +19,11 @@ Tactics, Techniques & Procedures:
 Layered malicious attacks including mass P2P file-sharing infections
 Hotel Wi-Fi exploits, infecting WiFi networks of hotels popular with business executives
 Combination of spearphishing, advanced malware, Inexsmar malware, and botnet automation designed to capture confidential data
-2-stage malware infection:
-Stage 1 infection is usually a Tapaoux Trojan to gain access and enumerate for high value targets
-Stage 2 malware delivered to select targets and when activated contacts a command-and-control (C&C) server for further instruction
-
+2-stage malware infection, usually a Tapaoux Trojan to gain access and enumerate for high value targets
+Stage 2 automated malware delivery via C&C servers
 Targets then loaded with a kernel-level keylogger or other spyware
-```
-
-Cyberattack Preparation & Development Methods:
-```
 Zero-day exploits and undiscovered security gaps
-Reverse engineering
 Forging certificates to make legitimate appearing software updates
-Automated malware delivery via C&C servers
 ```
 
 Primary Targets:
