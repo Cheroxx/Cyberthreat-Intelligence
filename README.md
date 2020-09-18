@@ -42,11 +42,11 @@ North Korea, South Korea, Japan, and China
 
 APT41 is a prolific Chinese hacker group engaging in state-sponsored cyberespionage and also operates as an independent cybercriminal organization engaging in financially motivated cyberattacks
 
+APT41 is cunning, evasive, and persistent, able to adapt quickly to changes in a targeted network environment and incident response activity
+
 Active:  2012-present
 
 National affiliation:  China
-
-APT41 is cunning, evasive, and persistent, able to adapt quickly to changes in a targeted network environment and incident response activity
 
 Tactics, Techniques & Procedures:
 ```
