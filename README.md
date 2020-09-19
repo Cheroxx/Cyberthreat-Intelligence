@@ -4,7 +4,7 @@ Here are 12 active and extremely dangerous APT and threat groups to have on your
 
 #### Advanced Persistent Threats (APT) hacker groups
 
-#### DarkHotel 
+### DarkHotel 
 
 DarkHotel is a hacker group engaging in cyberespionage, highly focused and malicious attacks on C-level business executives and other high-profile individuals to compromise and steal valuable data.
 
@@ -40,7 +40,7 @@ Political officials
 North Korea, South Korea, Japan, and China
 ```
 
-#### APT41
+### APT41
 
 APT41 is a prolific Chinese hacker group engaging in state-sponsored cyberespionage and also operates as an independent cybercriminal organization engaging in financially motivated cyberattacks
 
@@ -66,11 +66,13 @@ Strong ties to both underground markets and state-sponsored missions
 Targets high-tech, software, media, healthcare, pharmaceutical, travel, telecommunications, education, and video game industries
 ```
 
-#### Black Vine
+### Black Vine
 
-Black Vine is a dangerous APT group engaging primarily in cyberespionage
+Black Vine is a dangerous APT group likely composed of freelancers with partial sponsorship by the Chinese government engaging primarily in cyberespionage 
 
-Black Vine APT is likely responsible for the massive 2015 Anthem data breach 
+Black Vine APT is likely responsible for the massive 2015 Anthem data breach
+
+Also known as Deep Panda, Shell Crew, WebMasters, KungFu Kittens, PinkPanther, Codoso Team, and APT19 (although this may be 2 separate APT groups)
 
 Active:  2012-present
 
@@ -83,14 +85,17 @@ Weaponized zero-day exploits
 Watering-hole attacks
 Custom malware including Hurix, Sakurel, Mivast
 Install malware with backdoor to steal valuable data and information
+Phishing lure delivering a Cobalt Strike payload
 ```
 
 Primary Targets:
 ```
 Aerospace, energy, military, and technology industries
+Defense, finance, pharmaceutical, telecommunications, high tech, education, manufacturing
+Legal services and investments
 ```
 
-#### APT38/Lazarus Group
+### APT38/Lazarus Group
 
 The Lazarus Group is a prolific APT group sponsored by the North Korean regime engaging in financial cybercrimes, money laundering, and financially-motivated cyberattacks
 
@@ -121,7 +126,7 @@ Has targeted more than 16 organizations in at least 13 countries
 Reportedly has attempted to steal over $1.1 billion dollars from financial institutions
 ```
 
-#### Fancy Bear/APT28
+### Fancy Bear/APT28
 
 Fancy bear is a prolific Russian state-sponsored APT group engaging in economic and political cyberespionage activities on high-profile targets  
 
@@ -156,7 +161,7 @@ High-profile media personalities
 Also participates in disinformation campaigns
 ```
 
-#### Dragonfly
+### Dragonfly
 
 Dragonfly is a dangerous APT group engaging in cyberespionage and industrial sabotage
 
@@ -189,7 +194,7 @@ Shifted focus from targeting defense and aviation corporations to the energy sec
 United States, Switzerland and Turkey
 ```
 
-#### Equation Group
+### Equation Group
 
 The Equation Group is an APT group engaging in cyberespionage and U.S. government initiatives linked to the NSA
 
@@ -218,7 +223,7 @@ India
 Pakistan
 ```
 
-#### APT10/menuPass
+### APT10/menuPass
 
 APT10 is a clever state-sponsored Chinese APT group engaging in international cyberespionage and data theft
 
@@ -247,7 +252,7 @@ Construction, engineering, aerospace, and telecommunications industries
 Governments incuding United States, Europe, and Japan
 ```
 
-#### Cozy Bear/APT29
+### Cozy Bear/APT29
 
 APT29 is a Russian state-sponsored APT group engaging in cyberattacks on behalf of the Russian government and Vladimir Putin
 
@@ -275,7 +280,7 @@ U.S. goverment entities
 Norwegian government
 ```
 
-#### Comment Crew/APT1
+### Comment Crew/APT1
 
 The Comment Crew is a prolific Chinese state-sponsored APT group engaging in cyberespionage 
 
@@ -313,7 +318,7 @@ Metals and Mining
 
 #### Threat groups
 
-#### FIN7
+### FIN7
 
 FIN7 is a financially-motivated threat group engaging in financial cybercrimes and cyberfraud
 
@@ -338,13 +343,11 @@ U.S. retail, restaurant, and hospitality industries
 POS systems
 ```
 
-#### FIN8
+### FIN8
 
 FIN8 is an elusive financially-motivated threat group that resurfaced in 2019 after 2 years of dormancy engaging in cybercrimes and cyberfraud
 
 FIN8 targets companies operating point-of-sale (POS) systems by infecting them with malware, stealing payment card data to sell online 
-
-Nation of origin: ?
 
 Tactics, Techniques & Procedures:
 ```
