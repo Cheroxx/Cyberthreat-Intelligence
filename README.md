@@ -1,6 +1,6 @@
 ### Cyberthreat Intelligence Watchlist
 
-Here are 12 active and extremely dangerous APT groups to have on your radar in 2020 and beyond
+Here are 12 active and extremely dangerous APT and threat groups to have on your radar in 2020 and beyond
 
 #### Advanced Persistent Threats (APT) hacker groups
 
@@ -10,7 +10,7 @@ DarkHotel is a hacker group engaging in cyberespionage, highly focused and malic
 
 Also known as Tapaoux 
 
-Active:  2007-present
+Active:  2004-present
 
 National affiliation:  South Korea?
 
@@ -106,7 +106,7 @@ Gains initial access with strategic web compromise, exploiting vulnerable server
 Aggressive, use destructive malware to render victim networks inoperable following theft
 Possess a unique toolset, malware, and tactics distinguishing APT38 from other North Korean APT groups
 Distributed DoS attacks 
-EternalBlue, Mimikatz, Wannacry, Bankshot
+EternalBlue, Mimikatz, Wannacry ransomware, Bankshot
 Pivot to target servers used for SWIFT transactions and executed malware to insert fraudulent SWIFT transactions
 ```
 
@@ -139,6 +139,7 @@ Evasive and adaptable, routinely modifying their malware and procedures to evade
 Zero-day exploits
 Malware drop websites disguised as news sources
 Custom malware with unique signatures, malwary code obfuscation
+Mimikatz, Coreshell
 ```
 
 Primary Targets:
@@ -186,8 +187,175 @@ Shifted focus from targeting defense and aviation corporations to the energy sec
 United States, Switzerland and Turkey
 ```
 
-- GovRAT
-- APT10
-- FIN7
-- Cozy Bear
-- Comment Crew/APT1
+#### Equation Group
+
+The Equation Group is an APT group engaging in cyberespionage and U.S. government initiatives linked to the NSA
+
+Also known as Shady Brokers, Tilded Team and attributed with the 2010 Stuxnet attack on Iran's nuclear program
+
+Active:  2001-present
+
+National affiliation:  United States
+
+Tactics, Techniques & Procedures:
+```
+Multiple remote access tools 
+DarkPulsar, DOUBLEFANTASY, DoublePulsar, EQUATIONDRUG, EQUATIONLASER, EQUESTRE, FANNY, GROK, Lambert, Plexor, Regin, TRIPLEFANTASY
+Zero-day exploits
+Overwrite the firmware of hard disk drives
+Spyware
+```
+
+Primary Targets:
+```
+Iran
+Syria
+Afghanistan
+Mali 
+India
+Pakistan
+```
+
+#### APT10/menuPass
+
+APT10 is a clever state-sponsored Chinese APT group engaging in international cyberespionage and data theft
+
+APT10 targets valuable military and intelligence as well as confidential business data to support Chinese corporations and Chinese national security agenda
+
+Also known as Stone Panda, Red Apollo, menuPass, CVNX
+
+Active:  2009-present
+
+National affiliation:  China
+
+Tactics, Techniques & Procedures:
+```
+Spearphishing and accessing target networks through managed service providers
+Malware including HAYMAKER, SNUGRIDE, BUGJUICE, QUASARRAT
+PowerSploit to inject shellcode into PowerShell
+Staged data exfiltration
+DLL search order hijacking
+Mimikatz
+Utilizes a variety of sophisticated tactics to achieve goals in target network
+```
+
+Primary Targets:
+```
+Construction, engineering, aerospace, and telecommunications industries
+Governments incuding United States, Europe, and Japan
+```
+
+#### Cozy Bear/APT29
+
+APT29 is a Russian state-sponsored APT group engaging in cyberattacks on behalf of the Russian government and Vladimir Putin
+
+Responsible for the 2016 DNC hack along with Fancy Bear, the 2015 attack on the Pentagon, and a U.S. phishing campaign in 2018
+
+Also known as CloudLook, Grizzly Steppe, Minidionis, Yttrium, The Dukes, Group 100
+
+Active:  2008-present
+
+National affiliation:  Russia
+
+Tactics, Techniques & Procedures:
+```
+Spearphishing with malicious attachments to Microsoft Word documents, PDFs, .lnk
+Kerberos pass the ticket attacks for lateral movement
+Malware including Cobalt Strike, CosmicDuke, CozyDuke, CozyCar, GeminiDuke, HammerDuke, HAMMERTOSS, meek
+WMI to steal credentials and execute backdoors
+Mimikatz post exploitation
+```
+
+Primary Targets:
+```
+United States
+U.S. goverment entities
+Norwegian government
+```
+
+#### Comment Crew/APT1
+
+The Comment Crew is a prolific Chinese state-sponsored APT group engaging in cyberespionage 
+
+The Comment Crew targeted 140 U.S. companies attempting to steal IP and sensitive corporate data from 2006-2010 in Operation Seasalt
+
+Also known as Byzantine Hades, Comment Panda, Shanghai Group, Unit 61398
+
+Active:  2006-present
+
+Nation of origin: China
+
+Tactics, Techniques & Procedures:
+```
+Spearphishing with malicious attachment or hyperlink to malicious file
+GetMail
+Mimikatz
+Pass-The Hash Toolkit
+Poison Ivy
+WebC2
+Malware and backdoors including TROJAN.ECLTYS, BACKDOOR.BARKIOFORK, BACKDOOR.WAKEMINAP, TROJAN.DOWNBOT, BACKDOOR.DALBOT, BACKDOOR.REVIRD
+```
+
+Primary Targets:
+```
+Information Technology, Aerospace, Public Administration, Satellites and Telecommunications, Navigation
+Scientific Research and Consulting, Education
+Energy, Transportation, Construction and Manufacturing, Engineering Services, Chemicals
+High-tech Electronics, Legal Services Media, Advertising and Entertainment
+International Organizations
+Financial Services
+Food and Agriculture industry
+Healthcare industry
+Metals and Mining
+```
+
+#### Threat groups
+
+#### FIN7
+
+FIN7 is a financially-motivated threat group engaging in financial cybercrimes and cyberfraud
+
+FIN7 is separate from the Carbanak Group utilizing the same malware and FIN7 is connected to a front company named Combi Security
+
+Active:  2015-present
+
+Nation of origin: Russia
+
+Tactics, Techniques & Procedures:
+```
+Spearphishing to gain initial access
+Malware creating scheduled tasks "AdobeFlashSync" to establish persistence
+Point-of-sale malware
+Carbanak malware
+SQL, JvaScript, Powershell scripts to perform tasks on the victim machines
+```
+
+Primary Targets:
+```
+U.S. retail, restaurant, and hospitality industries
+POS systems
+```
+
+#### FIN8
+
+FIN8 is an elusive financially-motivated threat group that resurfaced in 2019 after 2 years of dormancy engaging in cybercrimes and cyberfraud
+
+FIN8 targets companies operating point-of-sale (POS) systems by infecting them with malware, stealing payment card data to sell online 
+
+Nation of origin: ?
+
+Tactics, Techniques & Procedures:
+```
+Tailored spearphishing attachments to gain access
+Zero-day attacks
+ShellTea/PunchBuggy backdoor and PoSlurp/PunchTrack malware with improved evasion and persistence features since re-emerging
+Code that is present only in memory
+Remote Code Execution
+Mimikatz
+``` 
+
+Primary Targets:
+```
+Retail, restaurant, and hospitality industries
+POS systems
+```
