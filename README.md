@@ -1,5 +1,7 @@
 ### Cyberthreat Intelligence Watchlist
 
+![image](anon.jpg)
+
 Here are 12 active and extremely dangerous APT and threat groups to have on your radar in 2020 and beyond
 
 #### Advanced Persistent Threats (APT) hacker groups
